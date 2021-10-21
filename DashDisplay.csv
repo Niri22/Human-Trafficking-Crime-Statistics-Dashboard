@@ -1,0 +1,881 @@
+"","REF_DATE","GEO","DGUID","Violations","Statistics","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS"
+"1",2015,"Canada","2016A000011124","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44351301","1.58.1",239,NA,NA,NA,0
+"2",2016,"Canada","2016A000011124","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44351301","1.58.1",249,NA,NA,NA,0
+"3",2017,"Canada","2016A000011124","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44351301","1.58.1",268,NA,NA,NA,0
+"4",2018,"Canada","2016A000011124","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44351301","1.58.1",238,NA,NA,NA,0
+"5",2019,"Canada","2016A000011124","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44351301","1.58.1",341,NA,NA,NA,0
+"6",2015,"Canada","2016A000011124","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44416997","1.58.2",0.67,NA,NA,NA,2
+"7",2016,"Canada","2016A000011124","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44416997","1.58.2",0.69,NA,NA,NA,2
+"8",2017,"Canada","2016A000011124","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44416997","1.58.2",0.73,NA,NA,NA,2
+"9",2018,"Canada","2016A000011124","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44416997","1.58.2",0.64,NA,NA,NA,2
+"10",2019,"Canada","2016A000011124","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44416997","1.58.2",0.91,NA,NA,NA,2
+"11",2015,"Canada","2016A000011124","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44385748","1.58.3",65.89,NA,NA,NA,2
+"12",2016,"Canada","2016A000011124","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44385748","1.58.3",3.01,NA,NA,NA,2
+"13",2017,"Canada","2016A000011124","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44385748","1.58.3",6.35,NA,NA,NA,2
+"14",2018,"Canada","2016A000011124","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44385748","1.58.3",-12.43,NA,NA,NA,2
+"15",2019,"Canada","2016A000011124","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44385748","1.58.3",41.25,NA,NA,NA,2
+"16",2015,"Canada","2016A000011124","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000149423","1.58.15",NA,"..",NA,NA,0
+"17",2016,"Canada","2016A000011124","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000149423","1.58.15",NA,"..",NA,NA,0
+"18",2017,"Canada","2016A000011124","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000149423","1.58.15",46,NA,NA,NA,0
+"19",2018,"Canada","2016A000011124","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000149423","1.58.15",50,NA,NA,NA,0
+"20",2019,"Canada","2016A000011124","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000149423","1.58.15",64,NA,NA,NA,0
+"21",2015,"Canada","2016A000011124","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000149424","1.58.16",NA,"..",NA,NA,2
+"22",2016,"Canada","2016A000011124","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000149424","1.58.16",NA,"..",NA,NA,2
+"23",2017,"Canada","2016A000011124","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000149424","1.58.16",14.65,NA,NA,NA,2
+"24",2018,"Canada","2016A000011124","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000149424","1.58.16",17.36,NA,NA,NA,2
+"25",2019,"Canada","2016A000011124","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000149424","1.58.16",15.8,NA,NA,NA,2
+"26",2015,"Canada","2016A000011124","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44357663","1.58.4",167,NA,NA,NA,0
+"27",2016,"Canada","2016A000011124","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44357663","1.58.4",177,NA,NA,NA,0
+"28",2017,"Canada","2016A000011124","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44357663","1.58.4",182,NA,NA,NA,0
+"29",2018,"Canada","2016A000011124","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44357663","1.58.4",138,NA,NA,NA,0
+"30",2019,"Canada","2016A000011124","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44357663","1.58.4",188,NA,NA,NA,0
+"31",2015,"Canada","2016A000011124","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44407067","1.58.5",155,NA,NA,NA,0
+"32",2016,"Canada","2016A000011124","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44407067","1.58.5",163,NA,NA,NA,0
+"33",2017,"Canada","2016A000011124","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44407067","1.58.5",170,NA,NA,NA,0
+"34",2018,"Canada","2016A000011124","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44407067","1.58.5",132,NA,NA,NA,0
+"35",2019,"Canada","2016A000011124","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44407067","1.58.5",173,NA,NA,NA,0
+"36",2015,"Canada","2016A000011124","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44369211","1.58.6",12,NA,NA,NA,0
+"37",2016,"Canada","2016A000011124","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44369211","1.58.6",14,NA,NA,NA,0
+"38",2017,"Canada","2016A000011124","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44369211","1.58.6",12,NA,NA,NA,0
+"39",2018,"Canada","2016A000011124","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44369211","1.58.6",6,NA,NA,NA,0
+"40",2019,"Canada","2016A000011124","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44369211","1.58.6",15,NA,NA,NA,0
+"41",2015,"Canada","2016A000011124","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44327320","1.58.7",145,NA,NA,NA,0
+"42",2016,"Canada","2016A000011124","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44327320","1.58.7",183,NA,NA,NA,0
+"43",2017,"Canada","2016A000011124","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44327320","1.58.7",236,NA,NA,NA,0
+"44",2018,"Canada","2016A000011124","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44327320","1.58.7",158,NA,NA,NA,0
+"45",2019,"Canada","2016A000011124","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44327320","1.58.7",223,NA,NA,NA,0
+"46",2015,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44399768","1.58.8",0.47,NA,NA,NA,2
+"47",2016,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44399768","1.58.8",0.58,NA,NA,NA,2
+"48",2017,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44399768","1.58.8",0.74,NA,NA,NA,2
+"49",2018,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44399768","1.58.8",0.49,NA,NA,NA,2
+"50",2019,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44399768","1.58.8",0.68,NA,NA,NA,2
+"51",2015,"Canada","2016A000011124","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44357424","1.58.9",138,NA,NA,NA,0
+"52",2016,"Canada","2016A000011124","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44357424","1.58.9",177,NA,NA,NA,0
+"53",2017,"Canada","2016A000011124","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44357424","1.58.9",217,NA,NA,NA,0
+"54",2018,"Canada","2016A000011124","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44357424","1.58.9",151,NA,NA,NA,0
+"55",2019,"Canada","2016A000011124","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44357424","1.58.9",216,NA,NA,NA,0
+"56",2015,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44417022","1.58.10",0.48,NA,NA,NA,2
+"57",2016,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44417022","1.58.10",0.61,NA,NA,NA,2
+"58",2017,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44417022","1.58.10",0.74,NA,NA,NA,2
+"59",2018,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44417022","1.58.10",0.51,NA,NA,NA,2
+"60",2019,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44417022","1.58.10",0.71,NA,NA,NA,2
+"61",2015,"Canada","2016A000011124","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44345110","1.58.11",7,NA,NA,NA,0
+"62",2016,"Canada","2016A000011124","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44345110","1.58.11",6,NA,NA,NA,0
+"63",2017,"Canada","2016A000011124","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44345110","1.58.11",19,NA,NA,NA,0
+"64",2018,"Canada","2016A000011124","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44345110","1.58.11",7,NA,NA,NA,0
+"65",2019,"Canada","2016A000011124","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44345110","1.58.11",7,NA,NA,NA,0
+"66",2015,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44342331","1.58.12",0.3,NA,NA,NA,2
+"67",2016,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44342331","1.58.12",0.25,NA,NA,NA,2
+"68",2017,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44342331","1.58.12",0.8,NA,NA,NA,2
+"69",2018,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44342331","1.58.12",0.29,NA,NA,NA,2
+"70",2019,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44342331","1.58.12",0.29,NA,NA,NA,2
+"71",2015,"Canada","2016A000011124","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53081030","1.58.13",1,NA,NA,NA,0
+"72",2016,"Canada","2016A000011124","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53081030","1.58.13",0,NA,NA,NA,0
+"73",2017,"Canada","2016A000011124","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53081030","1.58.13",1,NA,NA,NA,0
+"74",2018,"Canada","2016A000011124","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53081030","1.58.13",1,NA,NA,NA,0
+"75",2019,"Canada","2016A000011124","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53081030","1.58.13",1,NA,NA,NA,0
+"76",2015,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53081031","1.58.14",0.04,NA,NA,NA,2
+"77",2016,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53081031","1.58.14",0,NA,NA,NA,2
+"78",2017,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53081031","1.58.14",0.04,NA,NA,NA,2
+"79",2018,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53081031","1.58.14",0.04,NA,NA,NA,2
+"80",2019,"Canada","2016A000011124","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53081031","1.58.14",0.04,NA,NA,NA,2
+"81",2015,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44345336","16.58.1",147,NA,NA,NA,0
+"82",2016,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44345336","16.58.1",145,NA,NA,NA,0
+"83",2017,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44345336","16.58.1",194,NA,NA,NA,0
+"84",2018,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44345336","16.58.1",158,NA,NA,NA,0
+"85",2019,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44345336","16.58.1",187,NA,NA,NA,0
+"86",2015,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44342486","16.58.2",1.07,NA,NA,NA,2
+"87",2016,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44342486","16.58.2",1.05,NA,NA,NA,2
+"88",2017,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44342486","16.58.2",1.38,NA,NA,NA,2
+"89",2018,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44342486","16.58.2",1.1,NA,NA,NA,2
+"90",2019,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44342486","16.58.2",1.28,NA,NA,NA,2
+"91",2015,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44374344","16.58.3",50.56,NA,NA,NA,2
+"92",2016,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44374344","16.58.3",-2.56,NA,NA,NA,2
+"93",2017,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44374344","16.58.3",31.92,NA,NA,NA,2
+"94",2018,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44374344","16.58.3",-19.96,NA,NA,NA,2
+"95",2019,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44374344","16.58.3",16.34,NA,NA,NA,2
+"96",2015,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000158543","16.58.15",NA,"..",NA,NA,0
+"97",2016,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000158543","16.58.15",NA,"..",NA,NA,0
+"98",2017,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000158543","16.58.15",23,NA,NA,NA,0
+"99",2018,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000158543","16.58.15",13,NA,NA,NA,0
+"100",2019,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000158543","16.58.15",14,NA,NA,NA,0
+"101",2015,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000158544","16.58.16",NA,"..",NA,NA,2
+"102",2016,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000158544","16.58.16",NA,"..",NA,NA,2
+"103",2017,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000158544","16.58.16",10.6,NA,NA,NA,2
+"104",2018,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000158544","16.58.16",7.6,NA,NA,NA,2
+"105",2019,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000158544","16.58.16",6.97,NA,NA,NA,2
+"106",2015,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44401956","16.58.4",103,NA,NA,NA,0
+"107",2016,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44401956","16.58.4",108,NA,NA,NA,0
+"108",2017,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44401956","16.58.4",130,NA,NA,NA,0
+"109",2018,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44401956","16.58.4",90,NA,NA,NA,0
+"110",2019,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44401956","16.58.4",133,NA,NA,NA,0
+"111",2015,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44340912","16.58.5",96,NA,NA,NA,0
+"112",2016,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44340912","16.58.5",108,NA,NA,NA,0
+"113",2017,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44340912","16.58.5",127,NA,NA,NA,0
+"114",2018,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44340912","16.58.5",89,NA,NA,NA,0
+"115",2019,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44340912","16.58.5",127,NA,NA,NA,0
+"116",2015,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44375416","16.58.6",7,NA,NA,NA,0
+"117",2016,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44375416","16.58.6",0,NA,NA,NA,0
+"118",2017,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44375416","16.58.6",3,NA,NA,NA,0
+"119",2018,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44375416","16.58.6",1,NA,NA,NA,0
+"120",2019,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44375416","16.58.6",6,NA,NA,NA,0
+"121",2015,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44387244","16.58.7",94,NA,NA,NA,0
+"122",2016,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44387244","16.58.7",125,NA,NA,NA,0
+"123",2017,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44387244","16.58.7",171,NA,NA,NA,0
+"124",2018,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44387244","16.58.7",109,NA,NA,NA,0
+"125",2019,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44387244","16.58.7",162,NA,NA,NA,0
+"126",2015,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44340013","16.58.8",0.79,NA,NA,NA,2
+"127",2016,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44340013","16.58.8",1.03,NA,NA,NA,2
+"128",2017,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44340013","16.58.8",1.39,NA,NA,NA,2
+"129",2018,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44340013","16.58.8",0.87,NA,NA,NA,2
+"130",2019,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44340013","16.58.8",1.27,NA,NA,NA,2
+"131",2015,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44337764","16.58.9",91,NA,NA,NA,0
+"132",2016,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44337764","16.58.9",120,NA,NA,NA,0
+"133",2017,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44337764","16.58.9",155,NA,NA,NA,0
+"134",2018,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44337764","16.58.9",106,NA,NA,NA,0
+"135",2019,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44337764","16.58.9",157,NA,NA,NA,0
+"136",2015,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44387619","16.58.10",0.83,NA,NA,NA,2
+"137",2016,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44387619","16.58.10",1.08,NA,NA,NA,2
+"138",2017,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44387619","16.58.10",1.37,NA,NA,NA,2
+"139",2018,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44387619","16.58.10",0.92,NA,NA,NA,2
+"140",2019,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44387619","16.58.10",1.33,NA,NA,NA,2
+"141",2015,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44327556","16.58.11",3,NA,NA,NA,0
+"142",2016,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44327556","16.58.11",5,NA,NA,NA,0
+"143",2017,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44327556","16.58.11",16,NA,NA,NA,0
+"144",2018,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44327556","16.58.11",3,NA,NA,NA,0
+"145",2019,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44327556","16.58.11",5,NA,NA,NA,0
+"146",2015,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44412516","16.58.12",0.32,NA,NA,NA,2
+"147",2016,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44412516","16.58.12",0.53,NA,NA,NA,2
+"148",2017,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44412516","16.58.12",1.69,NA,NA,NA,2
+"149",2018,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44412516","16.58.12",0.32,NA,NA,NA,2
+"150",2019,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44412516","16.58.12",0.52,NA,NA,NA,2
+"151",2015,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53089670","16.58.13",1,NA,NA,NA,0
+"152",2016,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53089670","16.58.13",0,NA,NA,NA,0
+"153",2017,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53089670","16.58.13",1,NA,NA,NA,0
+"154",2018,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53089670","16.58.13",0,NA,NA,NA,0
+"155",2019,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53089670","16.58.13",0,NA,NA,NA,0
+"156",2015,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53089671","16.58.14",0.11,NA,NA,NA,2
+"157",2016,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53089671","16.58.14",0,NA,NA,NA,2
+"158",2017,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53089671","16.58.14",0.11,NA,NA,NA,2
+"159",2018,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53089671","16.58.14",0,NA,NA,NA,2
+"160",2019,"Ontario [35]","2016A000235","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53089671","16.58.14",0,NA,NA,NA,2
+"161",2015,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44369471","30.58.1",7,NA,NA,NA,0
+"162",2016,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44369471","30.58.1",3,NA,NA,NA,0
+"163",2017,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44369471","30.58.1",4,NA,NA,NA,0
+"164",2018,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44369471","30.58.1",1,NA,NA,NA,0
+"165",2019,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44369471","30.58.1",4,NA,NA,NA,0
+"166",2015,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44406842","30.58.2",0.62,NA,NA,NA,2
+"167",2016,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44406842","30.58.2",0.26,NA,NA,NA,2
+"168",2017,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44406842","30.58.2",0.35,NA,NA,NA,2
+"169",2018,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44406842","30.58.2",0.09,NA,NA,NA,2
+"170",2019,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44406842","30.58.2",0.34,NA,NA,NA,2
+"171",2015,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44399290","30.58.3",100,NA,NA,NA,2
+"172",2016,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44399290","30.58.3",-57.71,NA,NA,NA,2
+"173",2017,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44399290","30.58.3",NA,"..",NA,NA,2
+"174",2018,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44399290","30.58.3",NA,"..",NA,NA,2
+"175",2019,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44399290","30.58.3",NA,"..",NA,NA,2
+"176",2015,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000167055","30.58.15",NA,"..",NA,NA,0
+"177",2016,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000167055","30.58.15",NA,"..",NA,NA,0
+"178",2017,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000167055","30.58.15",2,NA,NA,NA,0
+"179",2018,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000167055","30.58.15",0,NA,NA,NA,0
+"180",2019,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000167055","30.58.15",4,NA,NA,NA,0
+"181",2015,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000167056","30.58.16",NA,"..",NA,NA,2
+"182",2016,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000167056","30.58.16",NA,"..",NA,NA,2
+"183",2017,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000167056","30.58.16",33.33,NA,NA,NA,2
+"184",2018,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000167056","30.58.16",0,NA,NA,NA,2
+"185",2019,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000167056","30.58.16",50,NA,NA,NA,2
+"186",2015,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44347526","30.58.4",1,NA,NA,NA,0
+"187",2016,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44347526","30.58.4",1,NA,NA,NA,0
+"188",2017,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44347526","30.58.4",2,NA,NA,NA,0
+"189",2018,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44347526","30.58.4",0,NA,NA,NA,0
+"190",2019,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44347526","30.58.4",4,NA,NA,NA,0
+"191",2015,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44351881","30.58.5",1,NA,NA,NA,0
+"192",2016,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44351881","30.58.5",1,NA,NA,NA,0
+"193",2017,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44351881","30.58.5",2,NA,NA,NA,0
+"194",2018,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44351881","30.58.5",0,NA,NA,NA,0
+"195",2019,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44351881","30.58.5",4,NA,NA,NA,0
+"196",2015,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44343227","30.58.6",0,NA,NA,NA,0
+"197",2016,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44343227","30.58.6",0,NA,NA,NA,0
+"198",2017,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44343227","30.58.6",0,NA,NA,NA,0
+"199",2018,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44343227","30.58.6",0,NA,NA,NA,0
+"200",2019,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44343227","30.58.6",0,NA,NA,NA,0
+"201",2015,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44366078","30.58.7",1,NA,NA,NA,0
+"202",2016,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44366078","30.58.7",2,NA,NA,NA,0
+"203",2017,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44366078","30.58.7",2,NA,NA,NA,0
+"204",2018,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44366078","30.58.7",0,NA,NA,NA,0
+"205",2019,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44366078","30.58.7",4,NA,NA,NA,0
+"206",2015,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44342446","30.58.8",0.11,NA,NA,NA,2
+"207",2016,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44342446","30.58.8",0.21,NA,NA,NA,2
+"208",2017,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44342446","30.58.8",0.21,NA,NA,NA,2
+"209",2018,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44342446","30.58.8",0,NA,NA,NA,2
+"210",2019,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44342446","30.58.8",0.4,NA,NA,NA,2
+"211",2015,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44330653","30.58.9",1,NA,NA,NA,0
+"212",2016,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44330653","30.58.9",2,NA,NA,NA,0
+"213",2017,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44330653","30.58.9",2,NA,NA,NA,0
+"214",2018,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44330653","30.58.9",0,NA,NA,NA,0
+"215",2019,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44330653","30.58.9",4,NA,NA,NA,0
+"216",2015,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44417166","30.58.10",0.12,NA,NA,NA,2
+"217",2016,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44417166","30.58.10",0.23,NA,NA,NA,2
+"218",2017,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44417166","30.58.10",0.23,NA,NA,NA,2
+"219",2018,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44417166","30.58.10",0,NA,NA,NA,2
+"220",2019,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44417166","30.58.10",0.44,NA,NA,NA,2
+"221",2015,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44365435","30.58.11",0,NA,NA,NA,0
+"222",2016,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44365435","30.58.11",0,NA,NA,NA,0
+"223",2017,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44365435","30.58.11",0,NA,NA,NA,0
+"224",2018,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44365435","30.58.11",0,NA,NA,NA,0
+"225",2019,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44365435","30.58.11",0,NA,NA,NA,0
+"226",2015,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44355229","30.58.12",0,NA,NA,NA,2
+"227",2016,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44355229","30.58.12",0,NA,NA,NA,2
+"228",2017,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44355229","30.58.12",0,NA,NA,NA,2
+"229",2018,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44355229","30.58.12",0,NA,NA,NA,2
+"230",2019,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44355229","30.58.12",0,NA,NA,NA,2
+"231",2015,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53100488","30.58.13",0,NA,NA,NA,0
+"232",2016,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53100488","30.58.13",0,NA,NA,NA,0
+"233",2017,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53100488","30.58.13",0,NA,NA,NA,0
+"234",2018,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53100488","30.58.13",0,NA,NA,NA,0
+"235",2019,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53100488","30.58.13",0,NA,NA,NA,0
+"236",2015,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53100489","30.58.14",0,NA,NA,NA,2
+"237",2016,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53100489","30.58.14",0,NA,NA,NA,2
+"238",2017,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53100489","30.58.14",0,NA,NA,NA,2
+"239",2018,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53100489","30.58.14",0,NA,NA,NA,2
+"240",2019,"Saskatchewan [47]","2016A000247","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53100489","30.58.14",0,NA,NA,NA,2
+"241",2015,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44373811","9.58.1",29,NA,NA,NA,0
+"242",2016,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44373811","9.58.1",56,NA,NA,NA,0
+"243",2017,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44373811","9.58.1",36,NA,NA,NA,0
+"244",2018,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44373811","9.58.1",35,NA,NA,NA,0
+"245",2019,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44373811","9.58.1",54,NA,NA,NA,0
+"246",2015,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44347825","9.58.2",0.35,NA,NA,NA,2
+"247",2016,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44347825","9.58.2",0.68,NA,NA,NA,2
+"248",2017,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44347825","9.58.2",0.43,NA,NA,NA,2
+"249",2018,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44347825","9.58.2",0.42,NA,NA,NA,2
+"250",2019,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44347825","9.58.2",0.64,NA,NA,NA,2
+"251",2015,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44414758","9.58.3",-0.31,NA,NA,NA,2
+"252",2016,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44414758","9.58.3",91.91,NA,NA,NA,2
+"253",2017,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44414758","9.58.3",-36.28,NA,NA,NA,2
+"254",2018,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44414758","9.58.3",-3.81,NA,NA,NA,2
+"255",2019,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44414758","9.58.3",52.52,NA,NA,NA,2
+"256",2015,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000154287","9.58.15",NA,"..",NA,NA,0
+"257",2016,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000154287","9.58.15",NA,"..",NA,NA,0
+"258",2017,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000154287","9.58.15",3,NA,NA,NA,0
+"259",2018,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000154287","9.58.15",9,NA,NA,NA,0
+"260",2019,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000154287","9.58.15",18,NA,NA,NA,0
+"261",2015,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000154288","9.58.16",NA,"..",NA,NA,2
+"262",2016,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000154288","9.58.16",NA,"..",NA,NA,2
+"263",2017,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000154288","9.58.16",7.69,NA,NA,NA,2
+"264",2018,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000154288","9.58.16",20.45,NA,NA,NA,2
+"265",2019,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000154288","9.58.16",25,NA,NA,NA,2
+"266",2015,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44413392","9.58.4",14,NA,NA,NA,0
+"267",2016,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44413392","9.58.4",43,NA,NA,NA,0
+"268",2017,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44413392","9.58.4",25,NA,NA,NA,0
+"269",2018,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44413392","9.58.4",28,NA,NA,NA,0
+"270",2019,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44413392","9.58.4",30,NA,NA,NA,0
+"271",2015,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44338760","9.58.5",11,NA,NA,NA,0
+"272",2016,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44338760","9.58.5",34,NA,NA,NA,0
+"273",2017,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44338760","9.58.5",17,NA,NA,NA,0
+"274",2018,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44338760","9.58.5",23,NA,NA,NA,0
+"275",2019,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44338760","9.58.5",24,NA,NA,NA,0
+"276",2015,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44394716","9.58.6",3,NA,NA,NA,0
+"277",2016,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44394716","9.58.6",9,NA,NA,NA,0
+"278",2017,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44394716","9.58.6",8,NA,NA,NA,0
+"279",2018,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44394716","9.58.6",5,NA,NA,NA,0
+"280",2019,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44394716","9.58.6",6,NA,NA,NA,0
+"281",2015,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44338987","9.58.7",12,NA,NA,NA,0
+"282",2016,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44338987","9.58.7",35,NA,NA,NA,0
+"283",2017,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44338987","9.58.7",32,NA,NA,NA,0
+"284",2018,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44338987","9.58.7",31,NA,NA,NA,0
+"285",2019,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44338987","9.58.7",32,NA,NA,NA,0
+"286",2015,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44326196","9.58.8",0.17,NA,NA,NA,2
+"287",2016,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44326196","9.58.8",0.49,NA,NA,NA,2
+"288",2017,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44326196","9.58.8",0.44,NA,NA,NA,2
+"289",2018,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44326196","9.58.8",0.42,NA,NA,NA,2
+"290",2019,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44326196","9.58.8",0.43,NA,NA,NA,2
+"291",2015,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44388043","9.58.9",12,NA,NA,NA,0
+"292",2016,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44388043","9.58.9",34,NA,NA,NA,0
+"293",2017,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44388043","9.58.9",32,NA,NA,NA,0
+"294",2018,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44388043","9.58.9",29,NA,NA,NA,0
+"295",2019,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44388043","9.58.9",30,NA,NA,NA,0
+"296",2015,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44416392","9.58.10",0.18,NA,NA,NA,2
+"297",2016,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44416392","9.58.10",0.51,NA,NA,NA,2
+"298",2017,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44416392","9.58.10",0.47,NA,NA,NA,2
+"299",2018,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44416392","9.58.10",0.43,NA,NA,NA,2
+"300",2019,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44416392","9.58.10",0.43,NA,NA,NA,2
+"301",2015,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44329955","9.58.11",0,NA,NA,NA,0
+"302",2016,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44329955","9.58.11",1,NA,NA,NA,0
+"303",2017,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44329955","9.58.11",0,NA,NA,NA,0
+"304",2018,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44329955","9.58.11",2,NA,NA,NA,0
+"305",2019,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44329955","9.58.11",2,NA,NA,NA,0
+"306",2015,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44411001","9.58.12",0,NA,NA,NA,2
+"307",2016,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44411001","9.58.12",0.21,NA,NA,NA,2
+"308",2017,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44411001","9.58.12",0,NA,NA,NA,2
+"309",2018,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44411001","9.58.12",0.41,NA,NA,NA,2
+"310",2019,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44411001","9.58.12",0.4,NA,NA,NA,2
+"311",2015,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53084047","9.58.13",0,NA,NA,NA,0
+"312",2016,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53084047","9.58.13",0,NA,NA,NA,0
+"313",2017,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53084047","9.58.13",0,NA,NA,NA,0
+"314",2018,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53084047","9.58.13",1,NA,NA,NA,0
+"315",2019,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53084047","9.58.13",1,NA,NA,NA,0
+"316",2015,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53084048","9.58.14",0,NA,NA,NA,2
+"317",2016,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53084048","9.58.14",0,NA,NA,NA,2
+"318",2017,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53084048","9.58.14",0,NA,NA,NA,2
+"319",2018,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53084048","9.58.14",0.2,NA,NA,NA,2
+"320",2019,"Quebec [24]","2016A000224","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53084048","9.58.14",0.2,NA,NA,NA,2
+"321",2015,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44375009","4.58.1",0,NA,NA,NA,0
+"322",2016,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44375009","4.58.1",0,NA,NA,NA,0
+"323",2017,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44375009","4.58.1",0,NA,NA,NA,0
+"324",2018,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44375009","4.58.1",0,NA,NA,NA,0
+"325",2019,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44375009","4.58.1",0,NA,NA,NA,0
+"326",2015,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44365153","4.58.2",0,NA,NA,NA,2
+"327",2016,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44365153","4.58.2",0,NA,NA,NA,2
+"328",2017,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44365153","4.58.2",0,NA,NA,NA,2
+"329",2018,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44365153","4.58.2",0,NA,NA,NA,2
+"330",2019,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44365153","4.58.2",0,NA,NA,NA,2
+"331",2015,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44374566","4.58.3",0,NA,NA,NA,2
+"332",2016,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44374566","4.58.3",0,NA,NA,NA,2
+"333",2017,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44374566","4.58.3",NA,"..",NA,NA,2
+"334",2018,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44374566","4.58.3",NA,"..",NA,NA,2
+"335",2019,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44374566","4.58.3",NA,"..",NA,NA,2
+"336",2015,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000151247","4.58.15",NA,"..",NA,NA,0
+"337",2016,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000151247","4.58.15",NA,"..",NA,NA,0
+"338",2017,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000151247","4.58.15",0,NA,NA,NA,0
+"339",2018,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000151247","4.58.15",0,NA,NA,NA,0
+"340",2019,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000151247","4.58.15",0,NA,NA,NA,0
+"341",2015,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000151248","4.58.16",NA,"..",NA,NA,2
+"342",2016,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000151248","4.58.16",NA,"..",NA,NA,2
+"343",2017,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000151248","4.58.16",NA,"..",NA,NA,2
+"344",2018,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000151248","4.58.16",NA,"..",NA,NA,2
+"345",2019,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000151248","4.58.16",NA,"..",NA,NA,2
+"346",2015,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44388206","4.58.4",0,NA,NA,NA,0
+"347",2016,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44388206","4.58.4",0,NA,NA,NA,0
+"348",2017,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44388206","4.58.4",0,NA,NA,NA,0
+"349",2018,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44388206","4.58.4",0,NA,NA,NA,0
+"350",2019,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44388206","4.58.4",0,NA,NA,NA,0
+"351",2015,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44337429","4.58.5",0,NA,NA,NA,0
+"352",2016,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44337429","4.58.5",0,NA,NA,NA,0
+"353",2017,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44337429","4.58.5",0,NA,NA,NA,0
+"354",2018,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44337429","4.58.5",0,NA,NA,NA,0
+"355",2019,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44337429","4.58.5",0,NA,NA,NA,0
+"356",2015,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44368584","4.58.6",0,NA,NA,NA,0
+"357",2016,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44368584","4.58.6",0,NA,NA,NA,0
+"358",2017,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44368584","4.58.6",0,NA,NA,NA,0
+"359",2018,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44368584","4.58.6",0,NA,NA,NA,0
+"360",2019,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44368584","4.58.6",0,NA,NA,NA,0
+"361",2015,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44394250","4.58.7",0,NA,NA,NA,0
+"362",2016,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44394250","4.58.7",0,NA,NA,NA,0
+"363",2017,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44394250","4.58.7",0,NA,NA,NA,0
+"364",2018,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44394250","4.58.7",0,NA,NA,NA,0
+"365",2019,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44394250","4.58.7",0,NA,NA,NA,0
+"366",2015,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44339675","4.58.8",0,NA,NA,NA,2
+"367",2016,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44339675","4.58.8",0,NA,NA,NA,2
+"368",2017,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44339675","4.58.8",0,NA,NA,NA,2
+"369",2018,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44339675","4.58.8",0,NA,NA,NA,2
+"370",2019,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44339675","4.58.8",0,NA,NA,NA,2
+"371",2015,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44404928","4.58.9",0,NA,NA,NA,0
+"372",2016,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44404928","4.58.9",0,NA,NA,NA,0
+"373",2017,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44404928","4.58.9",0,NA,NA,NA,0
+"374",2018,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44404928","4.58.9",0,NA,NA,NA,0
+"375",2019,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44404928","4.58.9",0,NA,NA,NA,0
+"376",2015,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44339912","4.58.10",0,NA,NA,NA,2
+"377",2016,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44339912","4.58.10",0,NA,NA,NA,2
+"378",2017,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44339912","4.58.10",0,NA,NA,NA,2
+"379",2018,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44339912","4.58.10",0,NA,NA,NA,2
+"380",2019,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44339912","4.58.10",0,NA,NA,NA,2
+"381",2015,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44416237","4.58.11",0,NA,NA,NA,0
+"382",2016,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44416237","4.58.11",0,NA,NA,NA,0
+"383",2017,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44416237","4.58.11",0,NA,NA,NA,0
+"384",2018,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44416237","4.58.11",0,NA,NA,NA,0
+"385",2019,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44416237","4.58.11",0,NA,NA,NA,0
+"386",2015,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44359978","4.58.12",0,NA,NA,NA,2
+"387",2016,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44359978","4.58.12",0,NA,NA,NA,2
+"388",2017,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44359978","4.58.12",0,NA,NA,NA,2
+"389",2018,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44359978","4.58.12",0,NA,NA,NA,2
+"390",2019,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44359978","4.58.12",0,NA,NA,NA,2
+"391",2015,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53101130","4.58.13",0,NA,NA,NA,0
+"392",2016,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53101130","4.58.13",0,NA,NA,NA,0
+"393",2017,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53101130","4.58.13",0,NA,NA,NA,0
+"394",2018,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53101130","4.58.13",0,NA,NA,NA,0
+"395",2019,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53101130","4.58.13",0,NA,NA,NA,0
+"396",2015,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53101131","4.58.14",0,NA,NA,NA,2
+"397",2016,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53101131","4.58.14",0,NA,NA,NA,2
+"398",2017,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53101131","4.58.14",0,NA,NA,NA,2
+"399",2018,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53101131","4.58.14",0,NA,NA,NA,2
+"400",2019,"Prince Edward Island [11]","2016A000211","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53101131","4.58.14",0,NA,NA,NA,2
+"401",2015,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44390541","5.58.1",9,NA,NA,NA,0
+"402",2016,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44390541","5.58.1",4,NA,NA,NA,0
+"403",2017,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44390541","5.58.1",10,NA,NA,NA,0
+"404",2018,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44390541","5.58.1",9,NA,NA,NA,0
+"405",2019,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44390541","5.58.1",36,NA,NA,NA,0
+"406",2015,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44353247","5.58.2",0.96,NA,NA,NA,2
+"407",2016,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44353247","5.58.2",0.42,NA,NA,NA,2
+"408",2017,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44353247","5.58.2",1.05,NA,NA,NA,2
+"409",2018,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44353247","5.58.2",0.94,NA,NA,NA,2
+"410",2019,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44353247","5.58.2",3.71,NA,NA,NA,2
+"411",2015,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44371732","5.58.3",80.39,NA,NA,NA,2
+"412",2016,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44371732","5.58.3",-55.85,NA,NA,NA,2
+"413",2017,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44371732","5.58.3",NA,"..",NA,NA,2
+"414",2018,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44371732","5.58.3",-10.85,NA,NA,NA,2
+"415",2019,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44371732","5.58.3",295.1,NA,NA,NA,2
+"416",2015,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000151855","5.58.15",NA,"..",NA,NA,0
+"417",2016,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000151855","5.58.15",NA,"..",NA,NA,0
+"418",2017,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000151855","5.58.15",1,NA,NA,NA,0
+"419",2018,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000151855","5.58.15",3,NA,NA,NA,0
+"420",2019,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000151855","5.58.15",11,NA,NA,NA,0
+"421",2015,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000151856","5.58.16",NA,"..",NA,NA,2
+"422",2016,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000151856","5.58.16",NA,"..",NA,NA,2
+"423",2017,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000151856","5.58.16",9.09,NA,NA,NA,2
+"424",2018,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000151856","5.58.16",25,NA,NA,NA,2
+"425",2019,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000151856","5.58.16",23.4,NA,NA,NA,2
+"426",2015,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44328474","5.58.4",7,NA,NA,NA,0
+"427",2016,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44328474","5.58.4",0,NA,NA,NA,0
+"428",2017,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44328474","5.58.4",9,NA,NA,NA,0
+"429",2018,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44328474","5.58.4",2,NA,NA,NA,0
+"430",2019,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44328474","5.58.4",10,NA,NA,NA,0
+"431",2015,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44401573","5.58.5",7,NA,NA,NA,0
+"432",2016,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44401573","5.58.5",0,NA,NA,NA,0
+"433",2017,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44401573","5.58.5",9,NA,NA,NA,0
+"434",2018,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44401573","5.58.5",2,NA,NA,NA,0
+"435",2019,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44401573","5.58.5",10,NA,NA,NA,0
+"436",2015,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44384742","5.58.6",0,NA,NA,NA,0
+"437",2016,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44384742","5.58.6",0,NA,NA,NA,0
+"438",2017,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44384742","5.58.6",0,NA,NA,NA,0
+"439",2018,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44384742","5.58.6",0,NA,NA,NA,0
+"440",2019,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44384742","5.58.6",0,NA,NA,NA,0
+"441",2015,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44370720","5.58.7",10,NA,NA,NA,0
+"442",2016,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44370720","5.58.7",0,NA,NA,NA,0
+"443",2017,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44370720","5.58.7",6,NA,NA,NA,0
+"444",2018,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44370720","5.58.7",2,NA,NA,NA,0
+"445",2019,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44370720","5.58.7",14,NA,NA,NA,0
+"446",2015,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44343222","5.58.8",1.2,NA,NA,NA,2
+"447",2016,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44343222","5.58.8",0,NA,NA,NA,2
+"448",2017,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44343222","5.58.8",0.71,NA,NA,NA,2
+"449",2018,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44343222","5.58.8",0.23,NA,NA,NA,2
+"450",2019,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44343222","5.58.8",1.62,NA,NA,NA,2
+"451",2015,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44372632","5.58.9",8,NA,NA,NA,0
+"452",2016,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44372632","5.58.9",0,NA,NA,NA,0
+"453",2017,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44372632","5.58.9",6,NA,NA,NA,0
+"454",2018,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44372632","5.58.9",2,NA,NA,NA,0
+"455",2019,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44372632","5.58.9",14,NA,NA,NA,0
+"456",2015,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44406326","5.58.10",1.04,NA,NA,NA,2
+"457",2016,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44406326","5.58.10",0,NA,NA,NA,2
+"458",2017,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44406326","5.58.10",0.76,NA,NA,NA,2
+"459",2018,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44406326","5.58.10",0.25,NA,NA,NA,2
+"460",2019,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44406326","5.58.10",1.74,NA,NA,NA,2
+"461",2015,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44364257","5.58.11",2,NA,NA,NA,0
+"462",2016,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44364257","5.58.11",0,NA,NA,NA,0
+"463",2017,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44364257","5.58.11",0,NA,NA,NA,0
+"464",2018,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44364257","5.58.11",0,NA,NA,NA,0
+"465",2019,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44364257","5.58.11",0,NA,NA,NA,0
+"466",2015,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44333797","5.58.12",3.45,NA,NA,NA,2
+"467",2016,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44333797","5.58.12",0,NA,NA,NA,2
+"468",2017,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44333797","5.58.12",0,NA,NA,NA,2
+"469",2018,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44333797","5.58.12",0,NA,NA,NA,2
+"470",2019,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44333797","5.58.12",0,NA,NA,NA,2
+"471",2015,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53081675","5.58.13",0,NA,NA,NA,0
+"472",2016,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53081675","5.58.13",0,NA,NA,NA,0
+"473",2017,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53081675","5.58.13",0,NA,NA,NA,0
+"474",2018,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53081675","5.58.13",0,NA,NA,NA,0
+"475",2019,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53081675","5.58.13",0,NA,NA,NA,0
+"476",2015,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53081676","5.58.14",0,NA,NA,NA,2
+"477",2016,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53081676","5.58.14",0,NA,NA,NA,2
+"478",2017,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53081676","5.58.14",0,NA,NA,NA,2
+"479",2018,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53081676","5.58.14",0,NA,NA,NA,2
+"480",2019,"Nova Scotia [12]","2016A000212","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53081676","5.58.14",0,NA,NA,NA,2
+"481",2015,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44391651","2.58.1",0,NA,NA,NA,0
+"482",2016,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44391651","2.58.1",0,NA,NA,NA,0
+"483",2017,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44391651","2.58.1",1,NA,NA,NA,0
+"484",2018,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44391651","2.58.1",0,NA,NA,NA,0
+"485",2019,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44391651","2.58.1",1,NA,NA,NA,0
+"486",2015,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44403493","2.58.2",0,NA,NA,NA,2
+"487",2016,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44403493","2.58.2",0,NA,NA,NA,2
+"488",2017,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44403493","2.58.2",0.19,NA,NA,NA,2
+"489",2018,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44403493","2.58.2",0,NA,NA,NA,2
+"490",2019,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44403493","2.58.2",0.19,NA,NA,NA,2
+"491",2015,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44367597","2.58.3",0,NA,NA,NA,2
+"492",2016,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44367597","2.58.3",0,NA,NA,NA,2
+"493",2017,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44367597","2.58.3",NA,"..",NA,NA,2
+"494",2018,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44367597","2.58.3",NA,"..",NA,NA,2
+"495",2019,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44367597","2.58.3",NA,"..",NA,NA,2
+"496",2015,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000150031","2.58.15",NA,"..",NA,NA,0
+"497",2016,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000150031","2.58.15",NA,"..",NA,NA,0
+"498",2017,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000150031","2.58.15",1,NA,NA,NA,0
+"499",2018,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000150031","2.58.15",3,NA,NA,NA,0
+"500",2019,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000150031","2.58.15",0,NA,NA,NA,0
+"501",2015,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000150032","2.58.16",NA,"..",NA,NA,2
+"502",2016,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000150032","2.58.16",NA,"..",NA,NA,2
+"503",2017,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000150032","2.58.16",50,NA,NA,NA,2
+"504",2018,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000150032","2.58.16",100,NA,NA,NA,2
+"505",2019,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000150032","2.58.16",0,NA,NA,NA,2
+"506",2015,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44409372","2.58.4",0,NA,NA,NA,0
+"507",2016,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44409372","2.58.4",0,NA,NA,NA,0
+"508",2017,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44409372","2.58.4",0,NA,NA,NA,0
+"509",2018,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44409372","2.58.4",0,NA,NA,NA,0
+"510",2019,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44409372","2.58.4",0,NA,NA,NA,0
+"511",2015,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44328456","2.58.5",0,NA,NA,NA,0
+"512",2016,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44328456","2.58.5",0,NA,NA,NA,0
+"513",2017,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44328456","2.58.5",0,NA,NA,NA,0
+"514",2018,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44328456","2.58.5",0,NA,NA,NA,0
+"515",2019,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44328456","2.58.5",0,NA,NA,NA,0
+"516",2015,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44388061","2.58.6",0,NA,NA,NA,0
+"517",2016,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44388061","2.58.6",0,NA,NA,NA,0
+"518",2017,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44388061","2.58.6",0,NA,NA,NA,0
+"519",2018,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44388061","2.58.6",0,NA,NA,NA,0
+"520",2019,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44388061","2.58.6",0,NA,NA,NA,0
+"521",2015,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44401207","2.58.7",0,NA,NA,NA,0
+"522",2016,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44401207","2.58.7",0,NA,NA,NA,0
+"523",2017,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44401207","2.58.7",0,NA,NA,NA,0
+"524",2018,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44401207","2.58.7",0,NA,NA,NA,0
+"525",2019,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44401207","2.58.7",0,NA,NA,NA,0
+"526",2015,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44345081","2.58.8",0,NA,NA,NA,2
+"527",2016,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44345081","2.58.8",0,NA,NA,NA,2
+"528",2017,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44345081","2.58.8",0,NA,NA,NA,2
+"529",2018,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44345081","2.58.8",0,NA,NA,NA,2
+"530",2019,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44345081","2.58.8",0,NA,NA,NA,2
+"531",2015,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44414013","2.58.9",0,NA,NA,NA,0
+"532",2016,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44414013","2.58.9",0,NA,NA,NA,0
+"533",2017,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44414013","2.58.9",0,NA,NA,NA,0
+"534",2018,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44414013","2.58.9",0,NA,NA,NA,0
+"535",2019,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44414013","2.58.9",0,NA,NA,NA,0
+"536",2015,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44391272","2.58.10",0,NA,NA,NA,2
+"537",2016,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44391272","2.58.10",0,NA,NA,NA,2
+"538",2017,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44391272","2.58.10",0,NA,NA,NA,2
+"539",2018,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44391272","2.58.10",0,NA,NA,NA,2
+"540",2019,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44391272","2.58.10",0,NA,NA,NA,2
+"541",2015,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44393556","2.58.11",0,NA,NA,NA,0
+"542",2016,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44393556","2.58.11",0,NA,NA,NA,0
+"543",2017,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44393556","2.58.11",0,NA,NA,NA,0
+"544",2018,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44393556","2.58.11",0,NA,NA,NA,0
+"545",2019,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44393556","2.58.11",0,NA,NA,NA,0
+"546",2015,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44413671","2.58.12",0,NA,NA,NA,2
+"547",2016,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44413671","2.58.12",0,NA,NA,NA,2
+"548",2017,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44413671","2.58.12",0,NA,NA,NA,2
+"549",2018,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44413671","2.58.12",0,NA,NA,NA,2
+"550",2019,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44413671","2.58.12",0,NA,NA,NA,2
+"551",2015,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53099584","2.58.13",0,NA,NA,NA,0
+"552",2016,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53099584","2.58.13",0,NA,NA,NA,0
+"553",2017,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53099584","2.58.13",0,NA,NA,NA,0
+"554",2018,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53099584","2.58.13",0,NA,NA,NA,0
+"555",2019,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53099584","2.58.13",0,NA,NA,NA,0
+"556",2015,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53099585","2.58.14",0,NA,NA,NA,2
+"557",2016,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53099585","2.58.14",0,NA,NA,NA,2
+"558",2017,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53099585","2.58.14",0,NA,NA,NA,2
+"559",2018,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53099585","2.58.14",0,NA,NA,NA,2
+"560",2019,"Newfoundland and Labrador [10]","2016A000210","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53099585","2.58.14",0,NA,NA,NA,2
+"561",2015,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44351130","7.58.1",1,NA,NA,NA,0
+"562",2016,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44351130","7.58.1",2,NA,NA,NA,0
+"563",2017,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44351130","7.58.1",1,NA,NA,NA,0
+"564",2018,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44351130","7.58.1",2,NA,NA,NA,0
+"565",2019,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44351130","7.58.1",7,NA,NA,NA,0
+"566",2015,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44417975","7.58.2",0.13,NA,NA,NA,2
+"567",2016,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44417975","7.58.2",0.26,NA,NA,NA,2
+"568",2017,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44417975","7.58.2",0.13,NA,NA,NA,2
+"569",2018,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44417975","7.58.2",0.26,NA,NA,NA,2
+"570",2019,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44417975","7.58.2",0.9,NA,NA,NA,2
+"571",2015,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44383321","7.58.3",100,NA,NA,NA,2
+"572",2016,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44383321","7.58.3",98.82,NA,NA,NA,2
+"573",2017,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44383321","7.58.3",NA,"..",NA,NA,2
+"574",2018,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44383321","7.58.3",NA,"..",NA,NA,2
+"575",2019,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44383321","7.58.3",NA,"..",NA,NA,2
+"576",2015,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000153071","7.58.15",NA,"..",NA,NA,0
+"577",2016,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000153071","7.58.15",NA,"..",NA,NA,0
+"578",2017,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000153071","7.58.15",2,NA,NA,NA,0
+"579",2018,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000153071","7.58.15",2,NA,NA,NA,0
+"580",2019,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000153071","7.58.15",2,NA,NA,NA,0
+"581",2015,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000153072","7.58.16",NA,"..",NA,NA,2
+"582",2016,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000153072","7.58.16",NA,"..",NA,NA,2
+"583",2017,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000153072","7.58.16",66.67,NA,NA,NA,2
+"584",2018,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000153072","7.58.16",50,NA,NA,NA,2
+"585",2019,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000153072","7.58.16",22.22,NA,NA,NA,2
+"586",2015,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44344776","7.58.4",1,NA,NA,NA,0
+"587",2016,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44344776","7.58.4",0,NA,NA,NA,0
+"588",2017,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44344776","7.58.4",0,NA,NA,NA,0
+"589",2018,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44344776","7.58.4",0,NA,NA,NA,0
+"590",2019,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44344776","7.58.4",1,NA,NA,NA,0
+"591",2015,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44412075","7.58.5",1,NA,NA,NA,0
+"592",2016,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44412075","7.58.5",0,NA,NA,NA,0
+"593",2017,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44412075","7.58.5",0,NA,NA,NA,0
+"594",2018,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44412075","7.58.5",0,NA,NA,NA,0
+"595",2019,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44412075","7.58.5",1,NA,NA,NA,0
+"596",2015,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44357633","7.58.6",0,NA,NA,NA,0
+"597",2016,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44357633","7.58.6",0,NA,NA,NA,0
+"598",2017,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44357633","7.58.6",0,NA,NA,NA,0
+"599",2018,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44357633","7.58.6",0,NA,NA,NA,0
+"600",2019,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44357633","7.58.6",0,NA,NA,NA,0
+"601",2015,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44398357","7.58.7",2,NA,NA,NA,0
+"602",2016,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44398357","7.58.7",0,NA,NA,NA,0
+"603",2017,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44398357","7.58.7",0,NA,NA,NA,0
+"604",2018,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44398357","7.58.7",0,NA,NA,NA,0
+"605",2019,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44398357","7.58.7",2,NA,NA,NA,0
+"606",2015,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44392372","7.58.8",0.3,NA,NA,NA,2
+"607",2016,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44392372","7.58.8",0,NA,NA,NA,2
+"608",2017,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44392372","7.58.8",0,NA,NA,NA,2
+"609",2018,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44392372","7.58.8",0,NA,NA,NA,2
+"610",2019,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44392372","7.58.8",0.29,NA,NA,NA,2
+"611",2015,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44347083","7.58.9",2,NA,NA,NA,0
+"612",2016,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44347083","7.58.9",0,NA,NA,NA,0
+"613",2017,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44347083","7.58.9",0,NA,NA,NA,0
+"614",2018,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44347083","7.58.9",0,NA,NA,NA,0
+"615",2019,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44347083","7.58.9",2,NA,NA,NA,0
+"616",2015,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44362357","7.58.10",0.32,NA,NA,NA,2
+"617",2016,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44362357","7.58.10",0,NA,NA,NA,2
+"618",2017,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44362357","7.58.10",0,NA,NA,NA,2
+"619",2018,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44362357","7.58.10",0,NA,NA,NA,2
+"620",2019,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44362357","7.58.10",0.31,NA,NA,NA,2
+"621",2015,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44330393","7.58.11",0,NA,NA,NA,0
+"622",2016,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44330393","7.58.11",0,NA,NA,NA,0
+"623",2017,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44330393","7.58.11",0,NA,NA,NA,0
+"624",2018,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44330393","7.58.11",0,NA,NA,NA,0
+"625",2019,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44330393","7.58.11",0,NA,NA,NA,0
+"626",2015,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44389328","7.58.12",0,NA,NA,NA,2
+"627",2016,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44389328","7.58.12",0,NA,NA,NA,2
+"628",2017,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44389328","7.58.12",0,NA,NA,NA,2
+"629",2018,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44389328","7.58.12",0,NA,NA,NA,2
+"630",2019,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44389328","7.58.12",0,NA,NA,NA,2
+"631",2015,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53102094","7.58.13",0,NA,NA,NA,0
+"632",2016,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53102094","7.58.13",0,NA,NA,NA,0
+"633",2017,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53102094","7.58.13",0,NA,NA,NA,0
+"634",2018,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53102094","7.58.13",0,NA,NA,NA,0
+"635",2019,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53102094","7.58.13",0,NA,NA,NA,0
+"636",2015,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53102095","7.58.14",0,NA,NA,NA,2
+"637",2016,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53102095","7.58.14",0,NA,NA,NA,2
+"638",2017,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53102095","7.58.14",0,NA,NA,NA,2
+"639",2018,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53102095","7.58.14",0,NA,NA,NA,2
+"640",2019,"New Brunswick [13]","2016A000213","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53102095","7.58.14",0,NA,NA,NA,2
+"641",2015,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44415352","28.58.1",8,NA,NA,NA,0
+"642",2016,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44415352","28.58.1",6,NA,NA,NA,0
+"643",2017,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44415352","28.58.1",3,NA,NA,NA,0
+"644",2018,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44415352","28.58.1",6,NA,NA,NA,0
+"645",2019,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44415352","28.58.1",2,NA,NA,NA,0
+"646",2015,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44411488","28.58.2",0.62,NA,NA,NA,2
+"647",2016,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44411488","28.58.2",0.46,NA,NA,NA,2
+"648",2017,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44411488","28.58.2",0.22,NA,NA,NA,2
+"649",2018,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44411488","28.58.2",0.44,NA,NA,NA,2
+"650",2019,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44411488","28.58.2",0.15,NA,NA,NA,2
+"651",2015,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44393372","28.58.3",295.91,NA,NA,NA,2
+"652",2016,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44393372","28.58.3",-26.25,NA,NA,NA,2
+"653",2017,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44393372","28.58.3",NA,"..",NA,NA,2
+"654",2018,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44393372","28.58.3",NA,"..",NA,NA,2
+"655",2019,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44393372","28.58.3",NA,"..",NA,NA,2
+"656",2015,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000165839","28.58.15",NA,"..",NA,NA,0
+"657",2016,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000165839","28.58.15",NA,"..",NA,NA,0
+"658",2017,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000165839","28.58.15",1,NA,NA,NA,0
+"659",2018,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000165839","28.58.15",0,NA,NA,NA,0
+"660",2019,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000165839","28.58.15",3,NA,NA,NA,0
+"661",2015,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000165840","28.58.16",NA,"..",NA,NA,2
+"662",2016,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000165840","28.58.16",NA,"..",NA,NA,2
+"663",2017,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000165840","28.58.16",25,NA,NA,NA,2
+"664",2018,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000165840","28.58.16",0,NA,NA,NA,2
+"665",2019,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000165840","28.58.16",60,NA,NA,NA,2
+"666",2015,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44392482","28.58.4",5,NA,NA,NA,0
+"667",2016,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44392482","28.58.4",4,NA,NA,NA,0
+"668",2017,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44392482","28.58.4",3,NA,NA,NA,0
+"669",2018,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44392482","28.58.4",5,NA,NA,NA,0
+"670",2019,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44392482","28.58.4",0,NA,NA,NA,0
+"671",2015,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44351459","28.58.5",4,NA,NA,NA,0
+"672",2016,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44351459","28.58.5",4,NA,NA,NA,0
+"673",2017,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44351459","28.58.5",3,NA,NA,NA,0
+"674",2018,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44351459","28.58.5",5,NA,NA,NA,0
+"675",2019,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44351459","28.58.5",0,NA,NA,NA,0
+"676",2015,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44398723","28.58.6",1,NA,NA,NA,0
+"677",2016,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44398723","28.58.6",0,NA,NA,NA,0
+"678",2017,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44398723","28.58.6",0,NA,NA,NA,0
+"679",2018,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44398723","28.58.6",0,NA,NA,NA,0
+"680",2019,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44398723","28.58.6",0,NA,NA,NA,0
+"681",2015,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44388683","28.58.7",8,NA,NA,NA,0
+"682",2016,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44388683","28.58.7",6,NA,NA,NA,0
+"683",2017,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44388683","28.58.7",1,NA,NA,NA,0
+"684",2018,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44388683","28.58.7",7,NA,NA,NA,0
+"685",2019,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44388683","28.58.7",0,NA,NA,NA,0
+"686",2015,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44390970","28.58.8",0.73,NA,NA,NA,2
+"687",2016,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44390970","28.58.8",0.54,NA,NA,NA,2
+"688",2017,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44390970","28.58.8",0.09,NA,NA,NA,2
+"689",2018,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44390970","28.58.8",0.61,NA,NA,NA,2
+"690",2019,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44390970","28.58.8",0,NA,NA,NA,2
+"691",2015,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44358635","28.58.9",7,NA,NA,NA,0
+"692",2016,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44358635","28.58.9",6,NA,NA,NA,0
+"693",2017,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44358635","28.58.9",1,NA,NA,NA,0
+"694",2018,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44358635","28.58.9",7,NA,NA,NA,0
+"695",2019,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44358635","28.58.9",0,NA,NA,NA,0
+"696",2015,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44339086","28.58.10",0.7,NA,NA,NA,2
+"697",2016,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44339086","28.58.10",0.59,NA,NA,NA,2
+"698",2017,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44339086","28.58.10",0.1,NA,NA,NA,2
+"699",2018,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44339086","28.58.10",0.67,NA,NA,NA,2
+"700",2019,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44339086","28.58.10",0,NA,NA,NA,2
+"701",2015,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44360313","28.58.11",1,NA,NA,NA,0
+"702",2016,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44360313","28.58.11",0,NA,NA,NA,0
+"703",2017,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44360313","28.58.11",0,NA,NA,NA,0
+"704",2018,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44360313","28.58.11",0,NA,NA,NA,0
+"705",2019,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44360313","28.58.11",0,NA,NA,NA,0
+"706",2015,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44347516","28.58.12",1.01,NA,NA,NA,2
+"707",2016,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44347516","28.58.12",0,NA,NA,NA,2
+"708",2017,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44347516","28.58.12",0,NA,NA,NA,2
+"709",2018,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44347516","28.58.12",0,NA,NA,NA,2
+"710",2019,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44347516","28.58.12",0,NA,NA,NA,2
+"711",2015,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53091178","28.58.13",0,NA,NA,NA,0
+"712",2016,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53091178","28.58.13",0,NA,NA,NA,0
+"713",2017,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53091178","28.58.13",0,NA,NA,NA,0
+"714",2018,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53091178","28.58.13",0,NA,NA,NA,0
+"715",2019,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53091178","28.58.13",0,NA,NA,NA,0
+"716",2015,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53091179","28.58.14",0,NA,NA,NA,2
+"717",2016,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53091179","28.58.14",0,NA,NA,NA,2
+"718",2017,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53091179","28.58.14",0,NA,NA,NA,2
+"719",2018,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53091179","28.58.14",0,NA,NA,NA,2
+"720",2019,"Manitoba [46]","2016A000246","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53091179","28.58.14",0,NA,NA,NA,2
+"721",2015,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44335793","36.58.1",26,NA,NA,NA,0
+"722",2016,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44335793","36.58.1",6,NA,NA,NA,0
+"723",2017,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44335793","36.58.1",9,NA,NA,NA,0
+"724",2018,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44335793","36.58.1",11,NA,NA,NA,0
+"725",2019,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44335793","36.58.1",27,NA,NA,NA,0
+"726",2015,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44376800","36.58.2",0.54,NA,NA,NA,2
+"727",2016,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44376800","36.58.2",0.12,NA,NA,NA,2
+"728",2017,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44376800","36.58.2",0.18,NA,NA,NA,2
+"729",2018,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44376800","36.58.2",0.22,NA,NA,NA,2
+"730",2019,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44376800","36.58.2",0.53,NA,NA,NA,2
+"731",2015,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44413713","36.58.3",754.1,NA,NA,NA,2
+"732",2016,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44413713","36.58.3",-77.32,NA,NA,NA,2
+"733",2017,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44413713","36.58.3",48.02,NA,NA,NA,2
+"734",2018,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44413713","36.58.3",20.34,NA,NA,NA,2
+"735",2019,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44413713","36.58.3",142.06,NA,NA,NA,2
+"736",2015,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000170703","36.58.15",NA,"..",NA,NA,0
+"737",2016,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000170703","36.58.15",NA,"..",NA,NA,0
+"738",2017,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000170703","36.58.15",6,NA,NA,NA,0
+"739",2018,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000170703","36.58.15",8,NA,NA,NA,0
+"740",2019,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000170703","36.58.15",1,NA,NA,NA,0
+"741",2015,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000170704","36.58.16",NA,"..",NA,NA,2
+"742",2016,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000170704","36.58.16",NA,"..",NA,NA,2
+"743",2017,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000170704","36.58.16",40,NA,NA,NA,2
+"744",2018,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000170704","36.58.16",42.11,NA,NA,NA,2
+"745",2019,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000170704","36.58.16",3.57,NA,NA,NA,2
+"746",2015,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44359775","36.58.4",25,NA,NA,NA,0
+"747",2016,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44359775","36.58.4",4,NA,NA,NA,0
+"748",2017,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44359775","36.58.4",4,NA,NA,NA,0
+"749",2018,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44359775","36.58.4",7,NA,NA,NA,0
+"750",2019,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44359775","36.58.4",4,NA,NA,NA,0
+"751",2015,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44403793","36.58.5",25,NA,NA,NA,0
+"752",2016,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44403793","36.58.5",4,NA,NA,NA,0
+"753",2017,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44403793","36.58.5",4,NA,NA,NA,0
+"754",2018,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44403793","36.58.5",7,NA,NA,NA,0
+"755",2019,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44403793","36.58.5",4,NA,NA,NA,0
+"756",2015,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44352867","36.58.6",0,NA,NA,NA,0
+"757",2016,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44352867","36.58.6",0,NA,NA,NA,0
+"758",2017,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44352867","36.58.6",0,NA,NA,NA,0
+"759",2018,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44352867","36.58.6",0,NA,NA,NA,0
+"760",2019,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44352867","36.58.6",0,NA,NA,NA,0
+"761",2015,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44386184","36.58.7",3,NA,NA,NA,0
+"762",2016,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44386184","36.58.7",3,NA,NA,NA,0
+"763",2017,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44386184","36.58.7",4,NA,NA,NA,0
+"764",2018,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44386184","36.58.7",4,NA,NA,NA,0
+"765",2019,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44386184","36.58.7",5,NA,NA,NA,0
+"766",2015,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44328334","36.58.8",0.07,NA,NA,NA,2
+"767",2016,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44328334","36.58.8",0.07,NA,NA,NA,2
+"768",2017,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44328334","36.58.8",0.09,NA,NA,NA,2
+"769",2018,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44328334","36.58.8",0.09,NA,NA,NA,2
+"770",2019,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44328334","36.58.8",0.11,NA,NA,NA,2
+"771",2015,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44378458","36.58.9",3,NA,NA,NA,0
+"772",2016,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44378458","36.58.9",3,NA,NA,NA,0
+"773",2017,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44378458","36.58.9",4,NA,NA,NA,0
+"774",2018,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44378458","36.58.9",3,NA,NA,NA,0
+"775",2019,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44378458","36.58.9",5,NA,NA,NA,0
+"776",2015,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44409215","36.58.10",0.08,NA,NA,NA,2
+"777",2016,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44409215","36.58.10",0.08,NA,NA,NA,2
+"778",2017,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44409215","36.58.10",0.1,NA,NA,NA,2
+"779",2018,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44409215","36.58.10",0.07,NA,NA,NA,2
+"780",2019,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44409215","36.58.10",0.12,NA,NA,NA,2
+"781",2015,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44349453","36.58.11",0,NA,NA,NA,0
+"782",2016,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44349453","36.58.11",0,NA,NA,NA,0
+"783",2017,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44349453","36.58.11",0,NA,NA,NA,0
+"784",2018,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44349453","36.58.11",1,NA,NA,NA,0
+"785",2019,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44349453","36.58.11",0,NA,NA,NA,0
+"786",2015,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44351288","36.58.12",0,NA,NA,NA,2
+"787",2016,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44351288","36.58.12",0,NA,NA,NA,2
+"788",2017,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44351288","36.58.12",0,NA,NA,NA,2
+"789",2018,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44351288","36.58.12",0.33,NA,NA,NA,2
+"790",2019,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44351288","36.58.12",0,NA,NA,NA,2
+"791",2015,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53097533","36.58.13",0,NA,NA,NA,0
+"792",2016,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53097533","36.58.13",0,NA,NA,NA,0
+"793",2017,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53097533","36.58.13",0,NA,NA,NA,0
+"794",2018,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53097533","36.58.13",0,NA,NA,NA,0
+"795",2019,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53097533","36.58.13",0,NA,NA,NA,0
+"796",2015,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53097534","36.58.14",0,NA,NA,NA,2
+"797",2016,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53097534","36.58.14",0,NA,NA,NA,2
+"798",2017,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53097534","36.58.14",0,NA,NA,NA,2
+"799",2018,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53097534","36.58.14",0,NA,NA,NA,2
+"800",2019,"British Columbia [59]","2016A000259","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53097534","36.58.14",0,NA,NA,NA,2
+"801",2015,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44366238","33.58.1",12,NA,NA,NA,0
+"802",2016,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44366238","33.58.1",27,NA,NA,NA,0
+"803",2017,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44366238","33.58.1",9,NA,NA,NA,0
+"804",2018,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44366238","33.58.1",15,NA,NA,NA,0
+"805",2019,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Actual incidents","Number",223,"units",0,"v44366238","33.58.1",21,NA,NA,NA,0
+"806",2015,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44388908","33.58.2",0.29,NA,NA,NA,2
+"807",2016,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44388908","33.58.2",0.64,NA,NA,NA,2
+"808",2017,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44388908","33.58.2",0.21,NA,NA,NA,2
+"809",2018,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44388908","33.58.2",0.35,NA,NA,NA,2
+"810",2019,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate per 100,000 population","Rate",257,"units",0,"v44388908","33.58.2",0.48,NA,NA,NA,2
+"811",2015,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44395443","33.58.3",68.91,NA,NA,NA,2
+"812",2016,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44395443","33.58.3",122.23,NA,NA,NA,2
+"813",2017,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44395443","33.58.3",-67.04,NA,NA,NA,2
+"814",2018,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44395443","33.58.3",64.45,NA,NA,NA,2
+"815",2019,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Percentage change in rate","Percent",239,"units",0,"v44395443","33.58.3",37.74,NA,NA,NA,2
+"816",2015,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000168879","33.58.15",NA,"..",NA,NA,0
+"817",2016,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000168879","33.58.15",NA,"..",NA,NA,0
+"818",2017,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000168879","33.58.15",7,NA,NA,NA,0
+"819",2018,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000168879","33.58.15",11,NA,NA,NA,0
+"820",2019,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Unfounded incidents","Number",223,"units",0,"v1000168879","33.58.15",8,NA,NA,NA,0
+"821",2015,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000168880","33.58.16",NA,"..",NA,NA,2
+"822",2016,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000168880","33.58.16",NA,"..",NA,NA,2
+"823",2017,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000168880","33.58.16",43.75,NA,NA,NA,2
+"824",2018,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000168880","33.58.16",42.31,NA,NA,NA,2
+"825",2019,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Percent unfounded","Percent",239,"units",0,"v1000168880","33.58.16",27.59,NA,NA,NA,2
+"826",2015,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44374457","33.58.4",11,NA,NA,NA,0
+"827",2016,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44374457","33.58.4",17,NA,NA,NA,0
+"828",2017,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44374457","33.58.4",8,NA,NA,NA,0
+"829",2018,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44374457","33.58.4",6,NA,NA,NA,0
+"830",2019,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total cleared","Number",223,"units",0,"v44374457","33.58.4",5,NA,NA,NA,0
+"831",2015,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44371244","33.58.5",10,NA,NA,NA,0
+"832",2016,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44371244","33.58.5",12,NA,NA,NA,0
+"833",2017,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44371244","33.58.5",7,NA,NA,NA,0
+"834",2018,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44371244","33.58.5",6,NA,NA,NA,0
+"835",2019,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Cleared by charge","Number",223,"units",0,"v44371244","33.58.5",3,NA,NA,NA,0
+"836",2015,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44393300","33.58.6",1,NA,NA,NA,0
+"837",2016,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44393300","33.58.6",5,NA,NA,NA,0
+"838",2017,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44393300","33.58.6",1,NA,NA,NA,0
+"839",2018,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44393300","33.58.6",0,NA,NA,NA,0
+"840",2019,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Cleared otherwise","Number",223,"units",0,"v44393300","33.58.6",2,NA,NA,NA,0
+"841",2015,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44361840","33.58.7",15,NA,NA,NA,0
+"842",2016,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44361840","33.58.7",12,NA,NA,NA,0
+"843",2017,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44361840","33.58.7",15,NA,NA,NA,0
+"844",2018,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44361840","33.58.7",5,NA,NA,NA,0
+"845",2019,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, persons charged","Number",223,"units",0,"v44361840","33.58.7",4,NA,NA,NA,0
+"846",2015,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44385241","33.58.8",0.43,NA,NA,NA,2
+"847",2016,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44385241","33.58.8",0.34,NA,NA,NA,2
+"848",2017,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44385241","33.58.8",0.42,NA,NA,NA,2
+"849",2018,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44385241","33.58.8",0.14,NA,NA,NA,2
+"850",2019,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, total persons charged per 100,000 population aged 12 years and over","Rate",257,"units",0,"v44385241","33.58.8",0.11,NA,NA,NA,2
+"851",2015,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44383298","33.58.9",14,NA,NA,NA,0
+"852",2016,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44383298","33.58.9",12,NA,NA,NA,0
+"853",2017,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44383298","33.58.9",12,NA,NA,NA,0
+"854",2018,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44383298","33.58.9",4,NA,NA,NA,0
+"855",2019,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, adult charged","Number",223,"units",0,"v44383298","33.58.9",4,NA,NA,NA,0
+"856",2015,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44376327","33.58.10",0.43,NA,NA,NA,2
+"857",2016,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44376327","33.58.10",0.37,NA,NA,NA,2
+"858",2017,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44376327","33.58.10",0.36,NA,NA,NA,2
+"859",2018,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44376327","33.58.10",0.12,NA,NA,NA,2
+"860",2019,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, adult charged per 100,000 population aged 18 years and over","Rate",257,"units",0,"v44376327","33.58.10",0.12,NA,NA,NA,2
+"861",2015,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44366330","33.58.11",1,NA,NA,NA,0
+"862",2016,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44366330","33.58.11",0,NA,NA,NA,0
+"863",2017,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44366330","33.58.11",3,NA,NA,NA,0
+"864",2018,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44366330","33.58.11",1,NA,NA,NA,0
+"865",2019,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, youth charged","Number",223,"units",0,"v44366330","33.58.11",0,NA,NA,NA,0
+"866",2015,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44383266","33.58.12",0.35,NA,NA,NA,2
+"867",2016,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44383266","33.58.12",0,NA,NA,NA,2
+"868",2017,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44383266","33.58.12",1.02,NA,NA,NA,2
+"869",2018,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44383266","33.58.12",0.33,NA,NA,NA,2
+"870",2019,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, youth charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v44383266","33.58.12",0,NA,NA,NA,2
+"871",2015,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53091718","33.58.13",0,NA,NA,NA,0
+"872",2016,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53091718","33.58.13",0,NA,NA,NA,0
+"873",2017,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53091718","33.58.13",0,NA,NA,NA,0
+"874",2018,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53091718","33.58.13",0,NA,NA,NA,0
+"875",2019,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Total, youth not charged","Number",223,"units",0,"v53091718","33.58.13",0,NA,NA,NA,0
+"876",2015,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53091719","33.58.14",0,NA,NA,NA,2
+"877",2016,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53091719","33.58.14",0,NA,NA,NA,2
+"878",2017,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53091719","33.58.14",0,NA,NA,NA,2
+"879",2018,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53091719","33.58.14",0,NA,NA,NA,2
+"880",2019,"Alberta [48]","2016A000248","Trafficking in persons [1525]","Rate, youth not charged per 100,000 population aged 12 to 17 years","Rate",257,"units",0,"v53091719","33.58.14",0,NA,NA,NA,2
